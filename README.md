@@ -264,6 +264,6 @@ Document progress, refine projects, and learn from practical work.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:FF6A00,50:17100B,100:080808" width="100%" alt="Orange footer"/>
 
-<sub>DESIGNED IN BLACK & ORANGE · BUILT THROUGH CONSISTENT LEARNING</sub>
+<sub>BUILT THROUGH CONSISTENT LEARNING</sub>
 
 </div>
